@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to reason_react_boilerplate 👋</h1>
+<h1 align="center">ReasonReact Parcel Toy Project/Demo Starter 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> A simple boilerplate for ReasonReact toy projects and demos using Parcel as the ubndler.
+> A simple starter boilerplate for ReasonReact toy projects and demos using Parcel as the bundler.
 
 ## Install
 
